@@ -1,7 +1,10 @@
 {
-  "version": "18.5",
-  "url": "",
-  "sha256": "",
-  "size": 0,
-  "notes": "Canal de atualizações do CS2 Guardian preparado."
+  "product": "CS2 Guardian",
+  "version": "v18.6",
+  "package_url": "https://github.com/leitadoduarte1971-dot/cs2-guardian-releases/releases/download/v18.6/cs2-guardian-v18.6-win64.zip",
+  "sha256": "e240b8347bb5d1c758f9026cb846a4aa4736d5fec3d8cdd19c93f742a5b127fb",
+  "size": 268133100,
+  "min_launcher_version": "1.0.0",
+  "mandatory": false,
+  "notes": "v18.6: Overwatch Video Review renovado, estatísticas Steam corrigidas, miras melhoradas, traduções expandidas e botão de atualização automática."
 }
