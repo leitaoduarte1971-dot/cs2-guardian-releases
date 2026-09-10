@@ -1,10 +1,10 @@
 {
   "product": "CS2 Guardian",
-  "version": "v18.7",
-  "package_url": "https://github.com/leitaoduarte1971-dot/cs2-guardian-releases/releases/download/v18.7/cs2-guardian-v18.7-win64.zip",
-  "sha256": "4b3a53e627e4df0c767aa0c48a8dba9b2bce8dd9859f9ac40ca5c593939cf7f7",
-  "size": 268142544,
-  "min_launcher_version": "1.0.0",
+  "version": "v18.8",
+  "package_url": "https://github.com/leitaoduarte1971-dot/cs2-guardian-releases/releases/download/v18.8/cs2-guardian-v18.8-win64.zip",
+  "sha256": "35b260c86be9418069ea1385bf790806176b18c2797d67aec8f713f0adb701d9",
+  "size": 268160780,
+  "min_launcher_version": "1.1.1",
   "mandatory": false,
-  "notes": "v18.7: pesquisa de jogadores por perfil Steam, revisão automática de momentos suspeitos sem abrir o CS2, miras com Share Codes reais e pré-visualização calculada, correções de idiomas e atualização automática corrigida."
+  "notes": "v18.8: sessão Steam persistente no desktop, navegação sem Overwatch, fundos diferentes por área, perfil de jogador com resultados recentes disponíveis, traduções reforçadas e análise de demos mais conservadora para reduzir falsos positivos."
 }
