@@ -1,10 +1,10 @@
 {
   "product": "CS2 Guardian",
-  "version": "v18.8",
-  "package_url": "https://github.com/leitaoduarte1971-dot/cs2-guardian-releases/releases/download/v18.8/cs2-guardian-v18.8-win64.zip",
-  "sha256": "35b260c86be9418069ea1385bf790806176b18c2797d67aec8f713f0adb701d9",
-  "size": 268160780,
+  "version": "v18.9",
+  "package_url": "https://github.com/leitaoduarte1971-dot/cs2-guardian-releases/releases/download/v18.9/cs2-guardian-v18.9-win64.zip",
+  "sha256": "45f8d01ae175366ada3234e3aaaedf7fad6555f119019447568c0d4ee413c17e",
+  "size": 268280260,
   "min_launcher_version": "1.1.1",
   "mandatory": false,
-  "notes": "v18.8: sessão Steam persistente no desktop, navegação sem Overwatch, fundos diferentes por área, perfil de jogador com resultados recentes disponíveis, traduções reforçadas e análise de demos mais conservadora para reduzir falsos positivos."
+  "notes": "v18.9: segurança reforçada; navegação e perfil redesenhados; isolamento entre contas; correções de layout nas demos; Miras com fotos/referências e tutorial; nova área Skins com preços sob pedido; Otimização e comandos úteis; biblioteca de Smokes por mapa e lado; traduções reforçadas nas 13 línguas suportadas; auditorias e testes adicionais."
 }
